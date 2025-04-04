@@ -8,7 +8,7 @@ A simple mpv script to step through video frames using Shift+RIGHT (forward) and
 - Non-repeatable key presses to ensure precise control.
 
 ## Installation
-1. Copy `frame_step.lua` to your mpv scripts folder (e.g., `~/.config/mpv/scripts/`).
+1. Copy `mpv-frame-stepper.lua` to your mpv scripts folder (e.g., `~/.config/mpv/scripts/`).
 2. Open a video in mpv and use `Shift+RIGHT` or `Shift+LEFT` to step frames.
 
 ## Requirements
